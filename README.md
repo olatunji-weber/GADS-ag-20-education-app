@@ -1,4 +1,3 @@
-This is the develop branch where-in all modifications will be done before they are committed to the main / default branch after they are vetted
 # GADS-ag-20-education-app
 Brainxamin: Is an App to serve as a platform for Online Testing that is built to be scalable and to serve globally located test-takers. It will serve the Education industry to help make testing of learners seamless and in-disruptible. Hence, test-takers can Search and Schedule Tests from available repository and also be able to take the tests scheduled from anywhere in the world at any time.
 
